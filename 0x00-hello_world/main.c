@@ -7,5 +7,6 @@
 
 int main(void)
 {
+	printf("This is an output.");
 	return(0);
 }
